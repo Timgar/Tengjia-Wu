@@ -1,4 +1,5 @@
 # -*- coding:utf8 -*-
+#这是python3版本的代码
 import requests
 from pyquery import PyQuery as pq
 from bs4 import BeautifulSoup
